@@ -11,7 +11,7 @@ https://guess-my-nbr.herokuapp.com/
 
 Just a simple guy who tries to get from zero to not-zero (step by step).
 
-Come say hello on twitter and if you have any suggestion feel free to tell me!
+Come say hello on twitter(see below) and if you have any suggestion feel free to tell me!
 
 
 ## Crédit 🔗
