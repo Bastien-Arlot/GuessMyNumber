@@ -1,6 +1,5 @@
 # GuessMyNumber
-![guessmynbr](https://user-images.githubusercontent.com/86610960/156885025-bc846aca-db42-472d-b774-2770734b6d2c.gif)
-
+![guessmynbr2](https://user-images.githubusercontent.com/86610960/156885259-b1cfda90-3ec4-4fcf-b629-8c1a301b6999.gif)
 As you would expect, i created a little game to play around with the DOM and learn more about it.
 
 Hope you'll enjoy it!
