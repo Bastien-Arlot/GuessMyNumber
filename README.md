@@ -21,4 +21,4 @@ Come say hello on twitter(see below) and if you have any suggestion feel free to
 
 
 ## Crédit 🔗
-[Bastien Arlot](https://github.com/Bastien-Arlot)
+[Bastien Arlot](https://twitter.com/BastCoding)
